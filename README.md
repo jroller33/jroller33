@@ -13,7 +13,6 @@
 I'm currently in a full-stack coding bootcamp. Some of what I've done recently is on here, but most of the projects we did at the beginning aren't, because I'm redoing them. This page is constantly changing and getting updated, so check back often.
 
 <br/>
-<br/>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
@@ -25,13 +24,12 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 - Databases, MySQL
 - Express.js
 <br/>
-<br/>
 
 <h3>Projects I'm currently working on:</h3>
 
 - https://github.com/jroller33/Team-Profile-Generator
 - Express.js Note Taking App: 
-</br></br>
+</br>
 <h3>What I've learned so far:</h3>
 
 - PowerShell, BASH
@@ -50,7 +48,7 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
   #
   
 <h2>Links:</h3>
-Here's some links to projects that are finished (or mostly finished):<br/><br/>
+Here's some links to projects that are finished (or mostly finished):<br/>
 
 - Front-End:
   - Schedule Planner
