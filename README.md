@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=200"/>
 </p>
-
+<!-- 
 <h1 align="center">
-  Sup
-</h1>
+  
+</h1> -->
 
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+<h2>About Me 👨🏻‍💻 </h2>
 
 I'm currently in a full-stack coding bootcamp. Some of what I've done recently is on here, but most of the projects we did at the beginning aren't, because I'm redoing them. This page is constantly changing and getting updated, so check back often.
 
@@ -18,19 +18,19 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 
 <!-- ```yaml -->
 
-<h3>What I'm currently learning:</h3>
+<h3>What I'm currently learning: 🔭</h3>
 
 - SQL
 - Databases, MySQL
 - Express.js
 <br/>
 
-<h3>Projects I'm currently working on:</h3>
+<h3>Projects I'm currently working on: 🏗️🚧</h3>
 
 - https://github.com/jroller33/Team-Profile-Generator
 - Express.js Note Taking App: 
 </br>
-<h3>What I've learned so far:</h3>
+<h3>What I've learned so far: 🧠</h3>
 
 - PowerShell, BASH
 - Git
@@ -47,7 +47,7 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 
   #
   
-<h2>Links:</h3>
+<h2>Links: 🔗</h3>
 Here's some links to projects that are finished (or mostly finished):<br/>
 
 - Front-End:
@@ -108,7 +108,7 @@ Here's some links to projects that are finished (or mostly finished):<br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
