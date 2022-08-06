@@ -30,7 +30,7 @@ I'm currently in a full-stack coding bootcamp. Some of what I've worked on recen
 
 <h3>What I've learned so far: 🧠</h3>
 
-- Git, BASH, PowerShell
+- Git, Bash, PowerShell
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
