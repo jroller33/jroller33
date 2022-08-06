@@ -30,12 +30,13 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 
 <h3>What I've learned so far: 🧠</h3>
 
-- PowerShell, BASH
-- Git
+- Git, PowerShell, BASH 
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
+- Functional Programming
 - Node.js, ES6
+- Asynchronous JS (Promises, callback functions, modules)
 - Object-Oriented Programming, ES6 Classes
 - Test-Driven Development
 - Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
