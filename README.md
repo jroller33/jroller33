@@ -23,7 +23,7 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 - Databases, MySQL
 - Express.js
 
-<h3>Projects I'm currently working on: 🏗️🚧</h3>
+<h3>Projects I'm currently working on: 🚧</h3>
 
 - https://github.com/jroller33/Team-Profile-Generator
 - Express.js Note Taking App: 
@@ -36,7 +36,7 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
 - Node.js, ES6
-- Object-Oriented Programming (OOP), ES6 Classes
+- Object-Oriented Programming, ES6 Classes
 - Test-Driven Development
 - Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
 - Custom Server-Side APIs
@@ -57,7 +57,7 @@ Here's some links to projects that are finished (or mostly finished):<br/>
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
 
-- Back-End:
+- Node.js:
   - OOP Word Guessing Game
     - Repo: https://github.com/jroller33/OOP-Word-Guessing-Game
   - README Generator
