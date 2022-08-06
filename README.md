@@ -15,6 +15,7 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 <br/>
 <br/>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ```yaml -->
 
@@ -90,7 +91,6 @@ Here's some links to projects that are finished (or mostly finished):<br/><br/>
  -->
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
