@@ -10,7 +10,7 @@
 
 <h2>About Me 👨🏻‍💻 </h2>
 
-I'm currently in a full-stack coding bootcamp. Some of what I've done recently is on here, but most of the projects we did at the beginning aren't, because I'm redoing them. This page is constantly changing and getting updated, so check back often.
+I'm currently in a full-stack coding bootcamp. Some of what I've worked on recently is on my GitHub, but most of the projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
@@ -30,13 +30,13 @@ I'm currently in a full-stack coding bootcamp. Some of what I've done recently i
 
 <h3>What I've learned so far: 🧠</h3>
 
-- Git, PowerShell, BASH 
+- Git, BASH, PowerShell
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
 - Functional Programming
 - Node.js, ES6
-- Asynchronous JS (Promises, callback functions, modules)
+- Asynchronous javascript (Promises, callback functions, modules)
 - Object-Oriented Programming, ES6 Classes
 - Test-Driven Development
 - Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
@@ -71,6 +71,8 @@ Here's some links to projects that are finished (or mostly finished):<br/>
     - Deployed: https://floating-escarpment-55488.herokuapp.com/
     - Repo: https://github.com/jroller33/UI-UX-Tips
   
+- All GitHub Repositories:
+  https://github.com/jroller33?tab=repositories
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
 
 
