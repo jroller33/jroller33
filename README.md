@@ -72,8 +72,10 @@ If you experience a 5-10 second lag after clicking the link to an app I've deplo
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
+#
+## 📈 My GitHub History
 
-<h2>&nbsp;My GitHub History 📈 </h2><br/>
+<br/>
 
 
 <a href="https://github.com/jroller33">
