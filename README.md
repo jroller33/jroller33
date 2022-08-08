@@ -25,10 +25,9 @@ I'm currently in a full-stack coding bootcamp. Some of the projects and assignme
 
 <h3>Projects I'm currently working on: 🚧</h3>
 
-- Express.js Note Taking App: 
-  - https://github.com/jroller33/Express.js-Note-Taker-
-- Node.js Team Profile Generator:
-  - https://github.com/jroller33/Team-Profile-Generator
+- [Express.js Note Taking App](https://github.com/jroller33/Express.js-Note-Taker)
+<br/>
+- [Node.js Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)
 
 <h3>What I've learned so far: 🧠</h3>
 
