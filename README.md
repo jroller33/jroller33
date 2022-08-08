@@ -17,18 +17,18 @@ I'm currently in a full-stack coding bootcamp. Some of the projects and assignme
 
 <!-- ```yaml -->
 
-<h3>What I'm currently learning: 🔭</h3>
+<h3>🔭 What I'm currently learning:</h3>
 
 - SQL
 - Databases, MySQL
 - Express.js
 
-<h3>Projects I'm currently working on: 🚧</h3>
+<h3>🚧 Projects I'm currently working on:</h3>
 
 - [Express.js Note Taking App](https://github.com/jroller33/Express.js-Note-Taker)
 - [Node.js Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)
 
-<h3>What I've learned so far: 🧠</h3>
+<h3>🧠 What I've learned so far: </h3>
 
 - Git, Bash, PowerShell
 - HTML, CSS, Bootstrap, Tailwind CSS
@@ -46,10 +46,11 @@ I'm currently in a full-stack coding bootcamp. Some of the projects and assignme
 - Heroku (free-ish platform for deploying applications)
 
   
-<h2>Links: 🔗</h3>
+<h2>🔗 Links:</h3>
 Here's some links to projects that are finished (or mostly finished):<br/>
+<br/>
 
-*** Note about Heroku *** 
+### ⚠️Note about Heroku⚠️:
 If you experience a 5-10 second lag after clicking the link to an app I've deployed on Heroku, it is because I'm currently using the free version. The server for an app on Heroku isn't listening at all times, because Heroku kills it after ~10 minutes if it doesn't receive a request. So when you click the link, the lag is from Heroku spinning-up the server so that it can receive your request and respond.<br/>
 - Full-Stack (no database yet):
   - UI/UX Tips
