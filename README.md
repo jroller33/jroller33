@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=200"/>
 </p>
 
-  
-</h1> -->
-
-
-
 # 👨🏻‍💻 About Me
 
 <b>I'm currently in a full-stack coding bootcamp. Some of the back-end projects and assignments I've worked on recently are still here on my GitHub, but most of the front-end projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
