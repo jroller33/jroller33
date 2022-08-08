@@ -29,7 +29,7 @@
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
 - Functional Programming
-- Node.js, ES6
+- Node.js, npm, ES6
 - Agile Development workflows
 - Test-Driven Development
 - Asynchronous javascript (Promises, callback functions, await, modules)
