@@ -10,7 +10,7 @@
 
 # 👨🏻‍💻 About Me
 
-<b>I'm currently in a full-stack coding bootcamp. Some of the projects and assignments I've worked on recently are still on my GitHub, but most of the projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
+<b>I'm currently in a full-stack coding bootcamp. Some of the back-end projects and assignments I've worked on recently are still on my GitHub, but most of the front-end projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
 </b>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
