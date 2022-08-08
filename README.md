@@ -26,7 +26,7 @@ I'm currently in a full-stack coding bootcamp. Some of the projects and assignme
 <h3>Projects I'm currently working on: 🚧</h3>
 
 - Express.js Note Taking App: 
-  - https://github.com/jroller33/Express.js-Note-Taker
+  - https://github.com/jroller33/Express.js-Note-Taker-
 - Node.js Team Profile Generator:
   - https://github.com/jroller33/Team-Profile-Generator
 
@@ -38,9 +38,10 @@ I'm currently in a full-stack coding bootcamp. Some of the projects and assignme
 - Web APIs, Third-Party APIs
 - Functional Programming
 - Node.js, ES6
-- Asynchronous javascript (Promises, callback functions, modules)
-- Object-Oriented Programming, ES6 Classes
+- Agile Development workflows
 - Test-Driven Development
+- Asynchronous javascript (Promises, callback functions, await, modules)
+- Object-Oriented Programming (methods, classes, ES6 classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
 - Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
 - Custom Server-Side APIs
 - Insomnia (for API testing)
@@ -50,33 +51,33 @@ I'm currently in a full-stack coding bootcamp. Some of the projects and assignme
 <h2>Links: 🔗</h3>
 Here's some links to projects that are finished (or mostly finished):<br/>
 
+*** Note about Heroku *** 
+If you experience a 5-10 second lag after clicking the link to an app I've deployed on Heroku, it is because I'm currently using the free version. The server for an app on Heroku isn't listening at all times, because Heroku kills it after ~10 minutes if it doesn't receive a request. So when you click the link, the lag is from Heroku spinning-up the server so that it can receive your request and respond.<br/>
+- Full-Stack (no database yet):
+  - UI/UX Tips
+    - [Deployed App](https://floating-escarpment-55488.herokuapp.com/)
+    - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
+  
 - Front-End:
   - Schedule Planner
-    - Deployed: https://jroller33.github.io/Schedule-Planner/
-    - Repo: https://github.com/jroller33/Schedule-Planner
+    - [Deployed App](https://jroller33.github.io/Schedule-Planner/)
+    - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
   - Third-Party APIs Project
-    - Repo: https://github.com/jroller33/BC-Project-1
-
-  <!-- - Weather Dashboard (under development)
-    - https://github.com/jroller33/Weather-Dashboard -->
+    - [GH Repo](https://github.com/jroller33/BC-Project-1)
 
 - Node.js:
   - OOP Word Guessing Game
-    - Repo: https://github.com/jroller33/OOP-Word-Guessing-Game
+    - [GH Repo](https://github.com/jroller33/OOP-Word-Guessing-Game)
   - README Generator
-    - Repo: https://github.com/jroller33/README-Generator
+    - [GH Repo](https://github.com/jroller33/README-Generator)
   - CLI Portfolio Page Generator
-    - Repo: https://github.com/jroller33/CLI-Portfolio-Page-Generator
+    - [GH Repo](https://github.com/jroller33/CLI-Portfolio-Page-Generator)
 
-- Full-Stack (no database yet):
-  - UI/UX Tips
-    - Deployed: https://floating-escarpment-55488.herokuapp.com/
-    - Repo: https://github.com/jroller33/UI-UX-Tips
-  
-- All GitHub Repositories:
-  https://github.com/jroller33?tab=repositories
+
+- [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
-
+  <!-- - Weather Dashboard (under development)
+    - https://github.com/jroller33/Weather-Dashboard -->
 
 <h2>&nbsp;My GitHub History 📈 </h2><br/>
 
