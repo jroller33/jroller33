@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=200"/>
 </p>
-<!-- 
-<h1 align="center">
+
   
 </h1> -->
 
@@ -15,7 +14,6 @@
 
 ![#Snake animation](./snakeAnimation.svg)
 
-<!-- ```yaml -->
 
 ## 🔭 What I'm currently learning:
 
@@ -105,18 +103,3 @@ If you experience a 5-10 second lag after clicking the link to an app I've deplo
 </p>
 
  -->
-
-<!--
-**jroller33/jroller33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
