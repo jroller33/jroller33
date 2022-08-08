@@ -40,7 +40,7 @@
 - [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
 
   
-## 🔗 Links:
+# 🔗 Links:
 
 ### Here are some links to projects that are finished (or mostly finished):
 
