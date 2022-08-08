@@ -41,9 +41,9 @@
 - Asynchronous javascript (Promises, callback functions, await, modules)
 - Object-Oriented Programming (methods, classes, ES6 classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
 - Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
-- Custom Server-Side APIs
-- Insomnia (for API testing)
-- Heroku (free-ish platform for deploying applications)
+- Custom REST APIs
+- [Insomnia](https://insomnia.rest/) (for API testing)
+- [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
 
   
 ## 🔗 Links:
