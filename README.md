@@ -4,8 +4,8 @@
 
 # 👨🏻‍💻 About Me
 
-<b>I'm currently in a full-stack coding bootcamp. Some of the back-end projects and assignments I've worked on recently are still here on my GitHub, but most of the front-end projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
-</b>
+I'm currently in a full-stack coding bootcamp. Some of the back-end projects and assignments I've worked on recently are still here on my GitHub, but most of the front-end projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
+
 
 ![#Snake animation](./snakeAnimation.svg)
 
@@ -29,9 +29,10 @@
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
 - Functional Programming
-- Node.js, npm, ES6
+- Node.js, npm
 - Agile Development workflows
 - Test-Driven Development
+- ES6 (ECMAScript 2015)
 - Asynchronous javascript (Promises, callback functions, await, modules)
 - Object-Oriented Programming (methods, classes, ES6 classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
 - Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
