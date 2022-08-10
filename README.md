@@ -10,9 +10,9 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 ![#Snake animation](./snakeAnimation.svg)
 
 ## ✨Latest Finished Projects✨
-- Express.js Note Taking App
+- Express.js Notes App
   - [Deployed App](https://arcane-thicket-35541.herokuapp.com/)
-  - [GH Repo](https://github.com/jroller33/Express.js-Note-Taker)
+  - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
 
 
 
