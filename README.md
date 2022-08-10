@@ -9,17 +9,22 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 
 ![#Snake animation](./snakeAnimation.svg)
 
+## ✨Latest Finished Projects✨
+- Express.js Note Taking App
+  - [Deployed App](https://arcane-thicket-35541.herokuapp.com/)
+  - [GH Repo](https://github.com/jroller33/Express.js-Note-Taker)
+
+
 
 ## 🔭 What I'm currently learning:
 
 - Object-Relational Mapping
 - SQL
-- Databases, MySQL
+- MySQL, Relational Databases
 - Express.js
 
 ## 🚧 Projects I'm currently working on:
 - [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
-- [Express.js Note Taking App](https://github.com/jroller33/Express.js-Note-Taker)
 - [Node.js Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)
 
 ## 🧠 What I've learned so far: 
