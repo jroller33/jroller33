@@ -17,7 +17,7 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 - Express.js
 
 ## 🚧 Projects I'm currently working on:
-
+- [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
 - [Express.js Note Taking App](https://github.com/jroller33/Express.js-Note-Taker)
 - [Node.js Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)
 
