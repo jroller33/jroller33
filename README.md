@@ -12,9 +12,9 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 
 ## 🔭 What I'm currently learning:
 
+- Object-Relational Mapping
 - SQL
 - Databases, MySQL
-- Express.js
 
 ## 🚧 Projects I'm currently working on:
 - [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
