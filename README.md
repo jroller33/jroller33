@@ -15,13 +15,11 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
   - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
 
 
-
 ## 🔭 What I'm currently learning:
 
 - Object-Relational Mapping
 - SQL
 - MySQL, Relational Databases
-- Express.js
 
 ## 🚧 Projects I'm currently working on:
 - [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
@@ -41,7 +39,7 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 - ES6 (ECMAScript 2015)
 - Asynchronous javascript (Promises, callback functions, await, modules)
 - Object-Oriented Programming (methods, classes, ES6 classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
-- Express.js (creating server-side routes, handling requests, static files, writing middleware, modular routing)
+- Express.js (creating HTML and API routes, handling requests, static files, writing middleware, modular routing)
 - Custom REST APIs
 - [Insomnia](https://insomnia.rest/) (for API testing)
 - [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
@@ -54,7 +52,11 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 
 ### ⚠️Note about Heroku⚠️:
 If you experience a 5-10 second lag after clicking the link to an app I've deployed on Heroku, it is because I'm currently using the free version. The server for an app on Heroku isn't listening at all times, because Heroku kills it after ~10 minutes if it doesn't receive a request. So when you click the link, the lag is from Heroku spinning-up the server so that it can receive your request and respond.<br/>
-### Full-Stack (no database yet):
+### Full-Stack:
+  - Express.js Notes App
+    - [Deployed App](https://arcane-thicket-35541.herokuapp.com/)
+    - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
+  
   - UI/UX Tips
     - [Deployed App](https://floating-escarpment-55488.herokuapp.com/)
     - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
