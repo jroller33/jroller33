@@ -3,17 +3,19 @@
 </p>
 
 # 👨🏻‍💻 About Me
+```
+I'm currently in a full-stack coding bootcamp.
+Most of my recent assignments are on here. 
+There's links below to projects that I've finished. 
+This page is constantly changing so check back regularly.
+```
 
-I'm currently in a full-stack coding bootcamp. Some of the back-end projects and assignments I've worked on recently are still here on my GitHub, but most of the front-end projects we did at the beginning aren't because I'm redoing them. This page is constantly changing so check back regularly.
-
-
-![#Snake animation](./snakeAnimation.svg)
-
+<!---
 ## ✨Latest Finished Projects✨
 - Express.js Notes App
   - [Deployed App](https://arcane-thicket-35541.herokuapp.com/)
   - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
-
+--->
 
 ## 🔭 What I'm currently learning:
 
@@ -31,7 +33,6 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 
 - Git, Bash, PowerShell
 - HTML, CSS, Bootstrap, Tailwind CSS
-- SVGs (see snake animation above 🐍)
 - JavaScript, jQuery
 - Web APIs, Third-Party APIs
 - Functional Programming
@@ -47,7 +48,7 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 - [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
 - SQL
 - Relational Databases, MySQL
-  
+
 # 🔗 Links:
 
 ## Projects that are finished (or mostly finished):
@@ -84,6 +85,7 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
 #
+![#Snake animation](./snakeAnimation.svg)
 ## 📈 My GitHub History
 
 <br/>
