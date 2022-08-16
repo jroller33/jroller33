@@ -19,7 +19,7 @@ This page is constantly changing so check back regularly.
 
 ## 🔭 What I'm currently learning:
 
-- Object-Relational Mapping
+- Object-Relational Mapping (Sequelize models, async seed scripts, CRUD methods with Express.js routes)
 - Model-View-Controller
 - NoSQL
 - Progressive Web Applications
@@ -27,6 +27,7 @@ This page is constantly changing so check back regularly.
 ## 🚧 Projects I'm currently working on:
 - [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
 - [Employee CMS](https://github.com/jroller33/Employee-CMS)
+- [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
 
 
 ## 🧠 What I've learned so far: 
@@ -73,8 +74,6 @@ This page is constantly changing so check back regularly.
 ### Node.js:
   - OOP Word Guessing Game
     - [GH Repo](https://github.com/jroller33/OOP-Word-Guessing-Game)
-  - Team Profile Generator
-    - [GH Repo](https://github.com/jroller33/Team-Profile-Generator)  
   - README Generator
     - [GH Repo](https://github.com/jroller33/README-Generator)
   - CLI Portfolio Page Generator
