@@ -18,12 +18,14 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 ## 🔭 What I'm currently learning:
 
 - Object-Relational Mapping
-- SQL
-- MySQL, Relational Databases
+- Model-View-Controller
+- NoSQL
+- Progressive Web Applications
 
 ## 🚧 Projects I'm currently working on:
 - [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
-- [Node.js Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)
+- [Employee CMS](https://github.com/jroller33/Employee-CMS)
+
 
 ## 🧠 What I've learned so far: 
 
@@ -43,15 +45,14 @@ I'm currently in a full-stack coding bootcamp. Some of the back-end projects and
 - Custom REST APIs
 - [Insomnia](https://insomnia.rest/) (for API testing)
 - [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
-
+- SQL
+- Relational Databases, MySQL
   
 # 🔗 Links:
 
-### Here are some links to projects that are finished (or mostly finished):
+## Projects that are finished (or mostly finished):
 
 
-### ⚠️Note about Heroku⚠️:
-If you experience a 5-10 second lag after clicking the link to an app I've deployed on Heroku, it is because I'm currently using the free version. The server for an app on Heroku isn't listening at all times, because Heroku kills it after ~10 minutes if it doesn't receive a request. So when you click the link, the lag is from Heroku spinning-up the server so that it can receive your request and respond.<br/>
 ### Full-Stack:
   - Express.js Notes App
     - [Deployed App](https://arcane-thicket-35541.herokuapp.com/)
@@ -71,11 +72,12 @@ If you experience a 5-10 second lag after clicking the link to an app I've deplo
 ### Node.js:
   - OOP Word Guessing Game
     - [GH Repo](https://github.com/jroller33/OOP-Word-Guessing-Game)
+  - Team Profile Generator
+    - [GH Repo](https://github.com/jroller33/Team-Profile-Generator)  
   - README Generator
     - [GH Repo](https://github.com/jroller33/README-Generator)
   - CLI Portfolio Page Generator
     - [GH Repo](https://github.com/jroller33/CLI-Portfolio-Page-Generator)
-
 
 ### [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
