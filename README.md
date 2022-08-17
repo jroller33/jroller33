@@ -27,8 +27,7 @@ There's links below to a lot of my recent assignments.</b>
 ## 🚧 Projects I'm working on:
 - [Employee CMS](https://github.com/jroller33/Employee-CMS)
 - [Travel Planner](https://github.com/jroller33/Travel-Planner)
-- [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
-- [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
+- [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
 
 
 ## 🧠 What I've learned so far: 
@@ -58,27 +57,27 @@ There's links below to a lot of my recent assignments.</b>
 
 ### Full-Stack:
   - Express.js Notes App
-    - [Deployed App](https://arcane-thicket-35541.herokuapp.com/)
-    - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
+    - [Deployed App](https://arcane-thicket-35541.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
   
   - UI/UX Tips
-    - [Deployed App](https://floating-escarpment-55488.herokuapp.com/)
-    - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
+    - [Deployed App](https://floating-escarpment-55488.herokuapp.com/) - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
   
 ### Front-End:
   - Schedule Planner
-    - [Deployed App](https://jroller33.github.io/Schedule-Planner/)
-    - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
-  - Third-Party APIs Project
-    - [GH Repo](https://github.com/jroller33/BC-Project-1)
+    - [Deployed App](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
+  - [Third-Party APIs Project](https://github.com/jroller33/BC-Project-1)
 
 ### Node.js:
-  - OOP Word Guessing Game
-    - [GH Repo](https://github.com/jroller33/OOP-Word-Guessing-Game)
-  - README Generator
-    - [GH Repo](https://github.com/jroller33/README-Generator)
-  - CLI Portfolio Page Generator
-    - [GH Repo](https://github.com/jroller33/CLI-Portfolio-Page-Generator)
+- [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
+- [OOP Word Guessing Game](https://github.com/jroller33/OOP-Word-Guessing-Game)
+- [README Generator](https://github.com/jroller33/README-Generator)
+- [CLI Portfolio Page Generator](https://github.com/jroller33/CLI-Portfolio-Page-Generator)
+
+### Databases, SQL, MySQL:
+- [MySQL DB, REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
+- [Travel Planner](https://github.com/jroller33/Travel-Planner)
+- [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
+- [Employee CMS](https://github.com/jroller33/Employee-CMS)
 
 ### [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
