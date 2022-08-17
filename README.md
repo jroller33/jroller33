@@ -3,12 +3,11 @@
 </p>
 
 # 👨🏻‍💻 About Me
-```
+
 I'm currently in a full-stack coding bootcamp.
 Most of my recent assignments are on here. 
-There's links below to projects that I've finished. 
-This page is constantly changing so check back regularly.
-```
+There's links below to my projects.
+
 
 <!---
 ## ✨Latest Finished Projects✨
