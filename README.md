@@ -24,7 +24,7 @@ There's links below to a lot of my recent assignments.</b>
 - NoSQL
 - Progressive Web Applications
 
-## 🚧 Projects I'm currently working on:
+## 🚧 Projects I'm working on:
 - [Employee CMS](https://github.com/jroller33/Employee-CMS)
 - [Travel Planner](https://github.com/jroller33/Travel-Planner)
 - [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
