@@ -56,15 +56,12 @@ There's links below to a lot of my recent assignments.</b>
 
 
 ### Full-Stack:
-  - Express.js Notes App
-    - [Deployed App](https://arcane-thicket-35541.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
+  - Express.js Notes App: [Deployed App](https://arcane-thicket-35541.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
   
-  - UI/UX Tips
-    - [Deployed App](https://floating-escarpment-55488.herokuapp.com/) - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
+  - UI/UX Tips: [Deployed App](https://floating-escarpment-55488.herokuapp.com/) - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
   
 ### Front-End:
-  - Schedule Planner
-    - [Deployed App](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
+  - Schedule Planner [Deployed App](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
   - [Third-Party APIs Project](https://github.com/jroller33/BC-Project-1)
 
 ### Node.js:
