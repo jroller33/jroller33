@@ -25,8 +25,9 @@ This page is constantly changing so check back regularly.
 - Progressive Web Applications
 
 ## 🚧 Projects I'm currently working on:
-- [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
 - [Employee CMS](https://github.com/jroller33/Employee-CMS)
+- [Travel Planner](https://github.com/jroller33/Travel-Planner)
+- [MySQL Database with REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
 - [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
 
 
