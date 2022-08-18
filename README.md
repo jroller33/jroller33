@@ -20,7 +20,7 @@ There's links below to a lot of my recent assignments.</b>
 ## 🔭 What I'm currently learning:
 
 - Object-Relational Mapping (Sequelize models, async seed scripts, CRUD methods with Express.js routes)
-- Model-View-Controller
+- Model-View-Controller (MVC), Handlebars.js
 - NoSQL
 - Progressive Web Applications
 
