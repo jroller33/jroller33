@@ -89,7 +89,7 @@ There's links below to a lot of my recent assignments.</b>
 
 <a href="https://github.com/jroller33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroller33&theme=tokyonight&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jroller33&theme=tokyonight&show_icons=true&count_private=true&hide=prs,issues,contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jroller33&theme=tokyonight&show_icons=true&count_private=true&hide=prs,contribs" />
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jroller33&repo=team-profile-generator&theme=tokyonight)](https://github.com/jroller33/Team-Profile-Generator)
