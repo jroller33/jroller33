@@ -76,7 +76,9 @@ There's links below to a lot of my recent assignments.</b>
 - [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
 - [Employee CMS](https://github.com/jroller33/Employee-CMS)
 
-### [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
+### [Coding Bootcamp In-Class Assignments](https://github.com/jroller33/Coding-Bootcamp-In-Class)
+
+## [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
