@@ -88,7 +88,7 @@
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
-#
+
 ## 📈 My GitHub History
 
 <br/>
