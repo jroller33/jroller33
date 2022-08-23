@@ -4,11 +4,8 @@
 
 # 👨🏻‍💻 About Me
 
-<b>I'm currently in a full-stack coding bootcamp.
-There's links below to a lot of my recent assignments.</b>
-
-<br/>
-
+<p style="font-size: large"> I'm currently in a full-stack coding bootcamp.
+There's links below to a lot of my recent assignments.</p>
 
 <!---
 ## ✨Latest Finished Projects✨
