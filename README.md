@@ -110,10 +110,10 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jroller33&repo=team-profile-generator&theme=tokyonight)](https://github.com/jroller33/Team-Profile-Generator) -->
 
-
+<!-- 
 <h1 style="color:red">RIP Itachi 🐐🔥🙏</h1>
 <p align="center">
   <img src= "https://comicvine.gamespot.com/a/uploads/original/11113/111134319/5149017-9946625078-Itach.gif">
 </p>
-
+ -->
 
