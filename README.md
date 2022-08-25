@@ -81,13 +81,13 @@
 - [README Generator](https://github.com/jroller33/README-Generator)
 - [CLI Portfolio Page Generator](https://github.com/jroller33/CLI-Portfolio-Page-Generator)
 
-### Databases, SQL, MySQL:
+### SQL, MySQL:
 - [MySQL DB, REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
 - [Travel Planner](https://github.com/jroller33/Travel-Planner)
 - [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
 - [Employee CMS](https://github.com/jroller33/Employee-CMS)
 
-### [Coding Bootcamp In-Class Assignments](https://github.com/jroller33/Coding-Bootcamp-In-Class)
+### [In-Class Assignments](https://github.com/jroller33/Coding-Bootcamp-In-Class)
 
 ## [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
