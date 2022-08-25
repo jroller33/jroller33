@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=170"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=170"/>
 </p>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
+  <!-- <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=170"/>  OLD HEADER -->
 
 # 👨🏻‍💻 About Me
 
