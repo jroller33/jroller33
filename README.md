@@ -48,6 +48,8 @@
 - [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
 - SQL
 - Relational Databases, MySQL
+- C++ (functional prog. and some OOP)
+
 
 # 🔗 Links:
 
