@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 About Me
 
-### I'm currently in a full-stack coding bootcamp. There's links below to a lot of my recent assignments.
+### I'm currently in a full-stack coding bootcamp. There's links below to most of my recent assignments.
 #
 <!---
 ## ✨Latest Finished Projects✨
@@ -18,9 +18,8 @@
 
 ## 🔭 What I'm currently learning:
 
-- Object-Relational Mapping (Sequelize models, async seed scripts, CRUD methods with Express.js routes)
-- Model-View-Controller (MVC), Handlebars.js
-- NoSQL
+- ReactJS
+- NoSQL databases
 - Progressive Web Applications
 
 ## 🚧 Projects I'm working on:
@@ -42,12 +41,15 @@
 - ES6 (ECMAScript 2015)
 - Asynchronous javascript (Promises, callback functions, await, modules)
 - Object-Oriented Programming (methods, classes, ES6 classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
-- Express.js (creating HTML and API routes, handling requests, static files, writing middleware, modular routing)
+- Express.js (creating HTML and API routes, requests, static files, middleware, modular routing)
 - Custom REST APIs
 - [Insomnia](https://insomnia.rest/) (for API testing)
-- [Heroku](https://www.heroku.com/about) (free-ish platform for deploying applications)
+- [Heroku](https://www.heroku.com/about) (platform for deploying apps)
 - SQL
 - Relational Databases, MySQL
+- Object-Relational Mapping (Sequelize models, CRUD methods with Express.js routes)
+- Model-View-Controller (MVC)
+- Handlebars.js, HTML templating engines
 - C++ (functional prog. and some OOP)
 
 
