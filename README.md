@@ -38,9 +38,9 @@
 - Node.js, npm
 - Agile Development workflows
 - Test-Driven Development
-- ES6 (ECMAScript 2015)
+- ES13 (ECMAScript 2022)
 - Asynchronous javascript (Promises, callback functions, await, modules)
-- Object-Oriented Programming (methods, classes, ES6 classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
+- Object-Oriented Programming (methods, classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
 - Express.js (creating HTML and API routes, requests, static files, middleware, modular routing)
 - Custom REST APIs
 - [Insomnia](https://insomnia.rest/) (for API testing)
