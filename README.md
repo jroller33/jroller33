@@ -24,9 +24,9 @@
 
 ## 🚧 Projects I'm working on:
 - [Team Project 2](https://github.com/jroller33/Banking-My-Way)
-- [Travel Planner](https://github.com/jroller33/Travel-Planner)
 - [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
 
+<!-- - [Travel Planner](https://github.com/jroller33/Travel-Planner) -->
 
 ## 🧠 What I've learned so far: 
 
