@@ -23,7 +23,7 @@
 - Progressive Web Applications
 
 ## 🚧 Projects I'm working on:
-- [Employee CMS](https://github.com/jroller33/Employee-CMS)
+- [Team Project 2](https://github.com/jroller33/Banking-My-Way)
 - [Travel Planner](https://github.com/jroller33/Travel-Planner)
 - [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
 
