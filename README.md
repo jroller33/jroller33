@@ -36,8 +36,8 @@
 - Web APIs, Third-Party APIs
 - Functional Programming
 - Node.js, npm
-- Agile Development workflows
-- Test-Driven Development
+- Agile Development, scrum, kanban, working as a team
+- Test-Driven Development, unit testing, functional testing
 - ES13 (ECMAScript 2022)
 - Asynchronous javascript (Promises, callback functions, await, modules)
 - Object-Oriented Programming (methods, classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
@@ -65,7 +65,7 @@
   
 ### Coding Bootcamp Projects:
   - Module 5 (Front-End): [Deployed](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner)
-  - [Project 1 (Front-End)](https://github.com/jroller33/BC-Project-1)
+  - [Team Project 1 (Front-End)](https://github.com/jroller33/BC-Project-1)
   - [Module 9 (Node.js)](https://github.com/jroller33/README-Generator)
   - [Module 10 (Node.js)](https://github.com/jroller33/Team-Profile-Generator)
   - Module 11 (Express.js): [Deployed](https://arcane-thicket-35541.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
@@ -75,7 +75,7 @@
 
 ### Front-End:
   - Schedule Planner [Deployed](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
-  - [Third-Party APIs Project](https://github.com/jroller33/BC-Project-1)
+  - [Team Project 1](https://github.com/jroller33/BC-Project-1)
 
 ### Node.js:
 - [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
