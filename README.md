@@ -36,7 +36,7 @@
 - Web APIs, Third-Party APIs
 - Functional Programming
 - Node.js, npm
-- Agile Development, scrum, kanban, working as a team
+- Agile Development, scrum, kanban
 - Test-Driven Development, unit testing, functional testing
 - ES13 (ECMAScript 2022)
 - Asynchronous javascript (Promises, callback functions, await, modules)
