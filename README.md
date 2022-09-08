@@ -22,9 +22,9 @@
 - NoSQL databases
 - Progressive Web Applications
 
-## 🚧 Projects I'm working on:
+<!-- ## 🚧 Projects I'm working on:
 - [Team Project 2](https://github.com/jroller33/Banking-My-Way)
-- [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
+- [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site) -->
 
 <!-- - [Travel Planner](https://github.com/jroller33/Travel-Planner) -->
 
