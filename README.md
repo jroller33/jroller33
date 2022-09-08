@@ -16,11 +16,11 @@
   <!-- <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=170"/>  OLD HEADER -->
 
 
-## 🔭 What I'm currently learning:
+<!-- ## 🔭 What I'm currently learning:
 
 - ReactJS
 - NoSQL databases
-- Progressive Web Applications
+- Progressive Web Applications -->
 
 <!-- ## 🚧 Projects I'm working on:
 - [Team Project 2](https://github.com/jroller33/Banking-My-Way)
