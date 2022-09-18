@@ -1,11 +1,3 @@
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120"/>
-</p>
-
-# 👨🏻‍💻 About Me
-
-### I'm currently in a full-stack coding bootcamp. There's links below to most of my recent assignments.
-#
 <!---
 ## ✨Latest Finished Projects✨
 - Express.js Notes App
@@ -15,18 +7,27 @@
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
   <!-- <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=0:2BC2D2,100:060621&height=170"/>  OLD HEADER -->
 
-
-<!-- ## 🔭 What I'm currently learning:
-
-- ReactJS
-- NoSQL databases
-- Progressive Web Applications -->
-
 <!-- ## 🚧 Projects I'm working on:
-- [Team Project 2](https://github.com/jroller33/Banking-My-Way)
+
 - [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site) -->
 
 <!-- - [Travel Planner](https://github.com/jroller33/Travel-Planner) -->
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120"/>
+</p>
+
+# 👨🏻‍💻 About Me
+
+### I'm currently in a full-stack coding bootcamp. There's links below to most of my recent assignments.
+#
+
+
+## 🔭 What I'm currently learning:
+
+- MongoDB, Mongoose
+- Progressive Web Apps
+- ReactJS
+
 
 ## 🧠 What I've learned so far: 
 
@@ -50,7 +51,14 @@
 - Object-Relational Mapping (Sequelize models, CRUD methods with Express.js routes)
 - Model-View-Controller (MVC)
 - Handlebars.js, HTML templating engines
-- C++ (functional prog. and some OOP)
+- Data structures
+- Execution contexts, call stacks, callback queues, event loops
+- Factory functions, closures, higher-order functions, inheritance vs composition
+- Regex
+- Algorithms
+
+<!-- 
+- C++ (functional prog. and some OOP) -->
 
 
 # 🔗 Links:
