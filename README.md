@@ -25,7 +25,7 @@
 ## 🔭 What I'm currently learning:
 
 - MongoDB, Mongoose
-- Progressive Web Apps, webpack, workbox, caching
+- Progressive Web Apps, webpack
 - ReactJS
 
 
