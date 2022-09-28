@@ -63,39 +63,31 @@
 
 # 🔗 Links:
 
-## Projects that are finished (or mostly finished):
-
-
 ### Full-Stack:
+  - Tech Blog: [GH Repo](https://github.com/jroller33/Tech-Blog)
+
+  - Crowdfunding App: [Deployed](https://sheltered-eyrie-77577.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Crowdfunding-App)
+
   - Express.js Notes App: [Deployed](https://arcane-thicket-35541.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
   
   - UI/UX Tips: [Deployed](https://floating-escarpment-55488.herokuapp.com/) - [GH Repo](https://github.com/jroller33/UI-UX-Tips)
-  
-### Coding Bootcamp Projects:
-  - Module 5 (Front-End): [Deployed](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner)
-  - [Team Project 1 (Front-End)](https://github.com/jroller33/BC-Project-1)
-  - [Module 9 (Node.js)](https://github.com/jroller33/README-Generator)
-  - [Module 10 (Node.js)](https://github.com/jroller33/Team-Profile-Generator)
-  - Module 11 (Express.js): [Deployed](https://arcane-thicket-35541.herokuapp.com/) - [GH Repo](https://github.com/jroller33/Express.js-Notes-App)
-  - [Module 12 (MySQL, Node.js)](https://github.com/jroller33/Employee-CMS)
-  - Module 13 (Full-Stack) - coming soon
 
 
 ### Front-End:
+  - Random Password Generator: [Deployed]() - [GH Repo](https://github.com/jroller33/Password-Generator)
+  - JS Word Game: [Deployed](https://jroller33.github.io/JS-Word-Game/) - [GH Repo](https://github.com/jroller33/JS-Word-Game)
   - Schedule Planner [Deployed](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
   - [Team Project 1](https://github.com/jroller33/BC-Project-1)
 
-### Node.js:
-- [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
+### Back-end:
+- [E-Commerce Site Backend](https://github.com/jroller33/E-Commerce-Site)
+- [Employee CMS](https://github.com/jroller33/Employee-CMS)
+- [MySQL DB, REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
+- [Travel Planner](https://github.com/jroller33/Travel-Planner)
 - [OOP Word Guessing Game](https://github.com/jroller33/OOP-Word-Guessing-Game)
 - [README Generator](https://github.com/jroller33/README-Generator)
 - [CLI Portfolio Page Generator](https://github.com/jroller33/CLI-Portfolio-Page-Generator)
-
-### SQL, MySQL:
-- [MySQL DB, REST API](https://github.com/jroller33/MySQL-Database-with-REST-API)
-- [Travel Planner](https://github.com/jroller33/Travel-Planner)
-- [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site)
-- [Employee CMS](https://github.com/jroller33/Employee-CMS)
+- [Team Profile Generator](https://github.com/jroller33/Team-Profile-Generator)  
 
 ### [In-Class Assignments](https://github.com/jroller33/Coding-Bootcamp-In-Class)
 
