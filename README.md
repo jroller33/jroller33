@@ -18,15 +18,17 @@
 
 # 👨🏻‍💻 About Me
 
-### I'm currently in a full-stack coding bootcamp. There's links below to most of my recent assignments.
-#
+
 
 
 ## 🔭 What I'm currently learning:
 
-- MongoDB, Mongoose
-- Progressive Web Apps, webpack
-- ReactJS
+- Progressive Web Apps
+- ReactJS, MERN Stack
+
+## Projects I'm working on:
+- [PWA with mongoDB](https://github.com/jroller33/PWA-Text-Editor)
+<!-- - [REST API with mongoDB](https://github.com/jroller33/Social-Media-API) -->
 
 
 ## 🧠 What I've learned so far: 
@@ -56,6 +58,7 @@
 - Factory functions, closures, higher-order functions, inheritance vs composition
 - Regex
 - Algorithms
+- MongoDB, Mongoose
 
 <!-- 
 - C++ (functional prog. and some OOP) -->
@@ -74,7 +77,7 @@
 
 
 ### Front-End:
-  - Random Password Generator: [Deployed]() - [GH Repo](https://github.com/jroller33/Password-Generator)
+  - Random Password Generator: [Deployed](https://jroller33.github.io/Password-Generator/) - [GH Repo](https://github.com/jroller33/Password-Generator)
   - JS Word Game: [Deployed](https://jroller33.github.io/JS-Word-Game/) - [GH Repo](https://github.com/jroller33/JS-Word-Game)
   - Schedule Planner [Deployed](https://jroller33.github.io/Schedule-Planner/) - [GH Repo](https://github.com/jroller33/Schedule-Planner) 
   - [Team Project 1](https://github.com/jroller33/BC-Project-1)
