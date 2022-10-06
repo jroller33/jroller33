@@ -27,8 +27,8 @@
 - ReactJS, MERN Stack
 
 ## Projects I'm working on:
-- [PWA with mongoDB](https://github.com/jroller33/PWA-Text-Editor)
-<!-- - [REST API with mongoDB](https://github.com/jroller33/Social-Media-API) -->
+- [PWA Text Editor](https://github.com/jroller33/PWA-Text-Editor)
+- [REST API with mongoDB](https://github.com/jroller33/Social-Media-API)
 
 
 ## 🧠 What I've learned so far: 
