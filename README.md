@@ -17,18 +17,18 @@
 </p>
 
 # 👨🏻‍💻 About Me
+### I just graduated from MSU's Full-Stack Coding Bootcamp.
 
+<br />
 
-
-
-## 🔭 What I'm currently learning:
+<!-- ## 🔭 What I'm currently learning:
 
 - Progressive Web Apps
-- ReactJS, MERN Stack
-
+- ReactJS, MERN Stack -->
+<!-- 
 ## Projects I'm working on:
 - [PWA Text Editor](https://github.com/jroller33/PWA-Text-Editor)
-- [REST API with mongoDB](https://github.com/jroller33/Social-Media-API)
+- [REST API with mongoDB](https://github.com/jroller33/Social-Media-API) -->
 
 
 ## 🧠 What I've learned so far: 
@@ -56,9 +56,9 @@
 - Data structures
 - Execution contexts, call stacks, callback queues, event loops
 - Factory functions, closures, higher-order functions, inheritance vs composition
-- Regex
 - Algorithms
 - MongoDB, Mongoose
+- PWA's, webpack, Workbox, service workers
 
 <!-- 
 - C++ (functional prog. and some OOP) -->
