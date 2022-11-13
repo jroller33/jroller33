@@ -17,7 +17,7 @@
 </p>
 
 # 👨🏻‍💻 About Me
-### I just graduated from MSU's Full-Stack Coding Bootcamp.
+
 
 <br />
 
