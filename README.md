@@ -23,7 +23,7 @@
 
 ## 🔭 What I'm currently learning:
 
-- NextJS
+- [NextJS](https://nextjs.org/)
 - AWS
 
 ## Projects I'm working on:
