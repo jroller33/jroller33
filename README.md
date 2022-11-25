@@ -21,14 +21,16 @@
 
 <br />
 
-<!-- ## 🔭 What I'm currently learning:
+## 🔭 What I'm currently learning:
 
-- Progressive Web Apps
-- ReactJS, MERN Stack -->
-<!-- 
+- NextJS
+- AWS
+
 ## Projects I'm working on:
-- [PWA Text Editor](https://github.com/jroller33/PWA-Text-Editor)
-- [REST API with mongoDB](https://github.com/jroller33/Social-Media-API) -->
+
+- [Tic-Tac-Toe Game](https://github.com/jroller33/ReactJS-Tic-Tac-Toe)
+
+- [Barcode Generator](https://github.com/jroller33/Barcode-Generator)
 
 
 ## 🧠 What I've learned so far: 
