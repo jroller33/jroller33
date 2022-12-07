@@ -59,8 +59,11 @@
 - Execution contexts, call stacks, callback queues, event loops
 - Factory functions, closures, higher-order functions, inheritance vs composition
 - Algorithms
-- MongoDB, Mongoose
-- PWA's, webpack, Workbox, service workers
+- MongoDB, Mongoose, SEO
+- PWAs, webpack, Workbox, service workers
+- ReactJS
+- GraphQL, JWT
+- MERN Stack, Redux
 
 <!-- 
 - C++ (functional prog. and some OOP) -->
