@@ -12,11 +12,27 @@
 - [E-Commerce Site](https://github.com/jroller33/E-Commerce-Site) -->
 
 <!-- - [Travel Planner](https://github.com/jroller33/Travel-Planner) -->
+
+<!-- ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true&theme=transparent) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6)
+<a href="https://github.com/jroller33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/jroller33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&theme=transparent" />
+</a>
+ -->
+
+
+
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=120"/>
 </p>
 
 # 👨🏻‍💻 About Me
+
+
+
 
 
 <br />
@@ -108,14 +124,32 @@
 
 <br/>
 
+
+<a href="https://github.com/jroller33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true" />
+</a>
+<a href="https://github.com/jroller33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&layout=compact" />
+</a>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
+<!-- 
 <a href="https://github.com/jroller33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroller33&theme=tokyonight&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jroller33&theme=tokyonight&show_icons=true&count_private=true&hide=prs,contribs" />
 </a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+ -->
+
+
+
+
 
 <!-- ![#Snake animation](./snakeAnimation.svg) -->
 
