@@ -77,9 +77,11 @@
 - GraphQL, JWT
 - MERN Stack, Redux
 
+<br />
+
 <!-- 
 - C++ (functional prog. and some OOP) -->
-
+<!-- 
 
 # 🔗 Links:
 
@@ -111,7 +113,7 @@
 
 ### [In-Class Assignments](https://github.com/jroller33/Coding-Bootcamp-In-Class)
 
-## [All GitHub Repositories](https://github.com/jroller33?tab=repositories)
+## [All GitHub Repositories](https://github.com/jroller33?tab=repositories) -->
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2> -->
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
