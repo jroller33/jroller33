@@ -42,12 +42,12 @@
 - [NextJS](https://nextjs.org/)
 - FReMP Stack (Flask, ReactJS, MongoDB, Python)
 
-## Projects I'm working on:
+<!-- ## Projects I'm working on:
 
 - [Tic-Tac-Toe Game](https://github.com/jroller33/ReactJS-Tic-Tac-Toe)
 
 - [Barcode Generator](https://github.com/jroller33/Barcode-Generator)
-
+ -->
 
 ## 🧠 What I've learned so far: 
 
