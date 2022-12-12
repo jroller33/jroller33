@@ -40,7 +40,7 @@
 ## 🔭 What I'm currently learning:
 
 - [NextJS](https://nextjs.org/)
-- AWS
+- FReMP Stack (Flask, ReactJS, MongoDB, Python)
 
 ## Projects I'm working on:
 
