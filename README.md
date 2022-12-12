@@ -54,9 +54,8 @@
 - Git, Bash, PowerShell
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, jQuery
-- Web APIs, Third-Party APIs
 - Functional Programming
-- Node.js, npm
+- Node.js, npm, Open APIs
 - Agile Development, scrum, kanban
 - Test-Driven Development, unit testing, functional testing
 - ES13 (ECMAScript 2022)
