@@ -62,15 +62,12 @@
 - ES13 (ECMAScript 2022)
 - Asynchronous javascript (Promises, callback functions, await, modules)
 - Object-Oriented Programming (methods, classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
-- Express.js (creating HTML and API routes, requests, static files, middleware, modular routing)
-- Custom REST APIs
+- Express.js, REST APIs
 - [Insomnia](https://insomnia.rest/) (for API testing)
-- [Heroku](https://www.heroku.com/about) (platform for deploying apps)
-- SQL
+- [Heroku](https://www.heroku.com/about)
 - Relational Databases, MySQL
-- Object-Relational Mapping (Sequelize models, CRUD methods with Express.js routes)
-- Model-View-Controller (MVC)
-- Handlebars.js, HTML templating engines
+- SQL, ORM
+- MVC, Handlebars.js, HTML templating engines
 - Data structures
 - Execution contexts, call stacks, callback queues, event loops
 - Factory functions, closures, higher-order functions, inheritance vs composition
