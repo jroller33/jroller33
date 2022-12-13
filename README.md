@@ -31,12 +31,6 @@
 
 # 👨🏻‍💻 About Me
 
-
-
-
-
-<br />
-
 ## 🔭 What I'm currently learning:
 
 - [NextJS](https://nextjs.org/)
@@ -79,6 +73,25 @@
 
 <br />
 
+## 📈 My GitHub History
+
+<br/>
+
+
+<a href="https://github.com/jroller33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&layout=compact" />
+</a>
+<a href="https://github.com/jroller33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
+</a>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
 <!-- 
 - C++ (functional prog. and some OOP) -->
 <!-- 
@@ -118,23 +131,6 @@
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
 
-## 📈 My GitHub History
-
-<br/>
-
-
-<a href="https://github.com/jroller33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
-</a>
-<a href="https://github.com/jroller33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&layout=compact" />
-</a>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 
 <!-- 
