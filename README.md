@@ -78,13 +78,14 @@
 <br/>
 
 
+<div style="display: block">
 <a href="https://github.com/jroller33">
-  <img align="center" style="width: 100%; height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&layout=compact" />
+  <img align="center" style="float: left; width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6" />
 </a>
 <a href="https://github.com/jroller33">
-  <img align="center" style="width: 100%; align=center" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
+  <img align="center" style="width: 50%; float: right" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
 </a>
-
+</div>
 
 
 <p align="center">
