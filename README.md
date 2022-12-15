@@ -81,6 +81,9 @@
 <a href="https://github.com/jroller33">
   <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
 </a>
+
+<br/>
+
 <a href="https://github.com/jroller33">
   <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css,handlebars&langs_count=5" />
 </a>
