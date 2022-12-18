@@ -52,21 +52,18 @@
 - Node.js, npm, Open APIs
 - Agile Development, scrum, kanban
 - Test-Driven Development, unit testing, functional testing
-- ES13 (ECMAScript 2022)
-- Asynchronous javascript (Promises, callback functions, await, modules)
-- Object-Oriented Programming (methods, classes, constructors, inheritance, prototypes, encapsulation, polymorphism)
-- Express.js, REST APIs
-- [Insomnia](https://insomnia.rest/) (for API testing)
-- [Heroku](https://www.heroku.com/about)
-- Relational Databases, MySQL
-- SQL, ORM
-- MVC, Handlebars.js, HTML templating engines
+- ES13 (ECMAScript 2022), async javascript, promises, callback functions, modules
+- Object-Oriented Programming
+- Express.js
+- REST APIs
+- MySQL, SQL, ORM
+- HTML templating engines
 - Data structures
 - Execution contexts, call stacks, callback queues, event loops
 - Factory functions, closures, higher-order functions, inheritance vs composition
 - Algorithms
-- MongoDB, Mongoose, SEO
-- PWAs, webpack, Workbox, service workers
+- MongoDB, Mongoose
+- PWAs, webpack, Workbox, search engine optimization
 - ReactJS
 - GraphQL, JWT
 - MERN Stack, Redux
