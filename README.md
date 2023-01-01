@@ -33,7 +33,7 @@
 
 ## 🔭 What I'm currently learning:
 
-- [NextJS](https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
 - FReMP Stack (Flask, ReactJS, MongoDB, Python)
 
 <!-- ## Projects I'm working on:
@@ -52,7 +52,7 @@
 - Node.js, npm, Open APIs
 - Agile Development, scrum, kanban
 - Test-Driven Development, unit testing, functional testing
-- ES13 (ECMAScript 2022), async javascript, promises, callback functions, modules
+- ES13, async javascript, promises, callback functions, modules
 - Object-Oriented Programming
 - Express.js
 - REST APIs
@@ -60,7 +60,7 @@
 - HTML templating engines
 - Data structures
 - Execution contexts, call stacks, callback queues, event loops
-- Factory functions, closures, higher-order functions, inheritance vs composition
+- Factory functions, closures, higher-order functions
 - Algorithms
 - MongoDB, Mongoose
 - PWAs, webpack, Workbox, search engine optimization
