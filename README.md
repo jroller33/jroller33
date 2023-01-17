@@ -32,7 +32,7 @@
 # 👨🏻‍💻 About Me
 I recently graduated from MSU's Full-Stack Coding Bootcamp.<br />
 My interests include web development, anime, and pizza. <br />
-Check out my [repos](https://github.com/jroller33?tab=repositories), and feel free to contribute by forking a repo and submitting a pull request.
+Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request.
 
 ## 🔭 What I'm currently learning:
 
