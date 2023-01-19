@@ -34,6 +34,8 @@ I recently graduated from MSU's Full-Stack Coding Bootcamp.<br />
 My interests include web development, anime, and pizza. <br />
 Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request.
 
+<br />
+
 ## 🔭 What I'm currently learning:
 
 - FReMP Stack (Flask, React.js, MongoDB, Python)
