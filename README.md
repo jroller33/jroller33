@@ -73,12 +73,8 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 - GraphQL, JWT
 - MERN Stack, Redux
 
-<br />
 
 ## 📈 My GitHub History
-
-<br/>
-
 
 <a href="https://github.com/jroller33">
   <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
