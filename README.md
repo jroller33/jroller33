@@ -36,7 +36,7 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 
 <br />
 
-## 🔭 What I'm currently learning:
+## 🔭 What I'm learning:
 
 - FReMP Stack (Flask, React.js, MongoDB, Python)
 - [Next.js](https://nextjs.org/)
