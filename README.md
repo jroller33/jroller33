@@ -30,9 +30,11 @@
 </p>
 
 # 👨🏻‍💻 About Me
-I recently graduated from MSU's Full-Stack Coding Bootcamp.<br />
-My interests include web development, anime, and pizza. <br />
-Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request.
+I recently graduated from MSU's Full-Stack Coding Bootcamp. <br />
+My interests include web development, anime, and gaming. <br />
+<br />
+I mainly build MERN-stack web applications, but I've been learning some new things lately. <br />
+Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request. 😁
 
 <br />
 
@@ -61,8 +63,8 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 - Object-Oriented Programming
 - Express.js
 - REST APIs
-- MySQL, SQL, ORM
-- HTML templating engines
+- SQL, MySQL 
+- Templating engines
 - Data structures
 - Execution contexts, call stacks, callback queues, event loops
 - Factory functions, closures, higher-order functions
@@ -72,6 +74,8 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 - React.js
 - GraphQL, JWT
 - MERN Stack, Redux
+
+<br />
 
 
 ## 📈 My GitHub History
