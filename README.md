@@ -30,18 +30,13 @@
 </p>
 
 # 👨🏻‍💻 About Me
-I recently graduated from MSU's Full-Stack Coding Bootcamp. <br />
-My interests include web development, anime, and gaming. <br />
+I recently graduated from MSU's Full-Stack Coding Bootcamp.
+I mainly build MERN-stack web applications, but I've been learning some new things lately like cross-site scripting, automation scripting, python and flask (FReMP stack)<br />
 <br />
-I mainly build MERN-stack web applications, but I've been learning some new things lately. <br />
-Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request. 😁
+Contribute by forking a [repo](https://github.com/jroller33?tab=repositories), making commits and submitting a pull request. 😁
 
 <br />
 
-## 🔭 What I'm learning:
-
-- FReMP Stack (Flask, React.js, MongoDB, Python)
-- [Next.js](https://nextjs.org/)
 
 <!-- ## Projects I'm working on:
 
