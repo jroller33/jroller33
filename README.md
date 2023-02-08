@@ -31,7 +31,7 @@
 
 # 👨🏻‍💻 About Me
 I recently graduated from MSU's Full-Stack Coding Bootcamp.
-I mainly build MERN-stack web applications, but I've been learning some new things lately like cross-site scripting, automation scripting, python and flask (FReMP stack)<br />
+I mainly build MERN-stack web applications, but I've been learning some new things lately like cross-site scripting, automation scripting, and python/flask (FReMP stack)<br />
 <br />
 Contribute by forking a [repo](https://github.com/jroller33?tab=repositories), making commits and submitting a pull request. 😁
 
