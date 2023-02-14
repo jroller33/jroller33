@@ -35,7 +35,7 @@ I mainly build MERN-stack web applications, but I've been learning some new thin
 I've also started deploying apps on Azure instead of Heroku.
 <br />
 <br />
-Contribute by forking a [repo](https://github.com/jroller33?tab=repositories), making commits and submitting a pull request. 😁
+Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request. 😁
 
 <br />
 
