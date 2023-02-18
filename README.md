@@ -84,7 +84,7 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 <br/>
 
 <a href="https://github.com/jroller33">
-  <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css,handlebars&langs_count=5" />
+  <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css,handlebars&langs_count=8" />
 </a>
 
 
