@@ -68,7 +68,7 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 - **Algorithms**
 - ***MongoDB, Mongoose***
 - PWAs, webpack, Workbox, search engine optimization
-- **React.js**
+- ***React.js***
 - GraphQL, JWT, Redux
 - ***MERN Stack*** 🔥
 
