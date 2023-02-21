@@ -53,24 +53,24 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 - HTML, CSS, Bootstrap, Tailwind CSS
 - JavaScript, jQuery
 - Functional Programming
-- **Node.js**, npm, Open APIs
+- ***Node.js***, npm, Open APIs
 - Agile Development, scrum, kanban
 - Test-Driven Development, unit testing, functional testing
 - ES13, async javascript, promises, callback functions, modules
 - Object-Oriented Programming
-- **Express.js**
+- ***Express.js***
 - REST APIs
-- **SQL, MySQL** 
+- ***SQL, MySQL*** 
 - Templating engines
 - **Data structures**
 - Execution contexts, call stacks, callback queues, event loops
 - Factory functions, closures, higher-order functions
 - **Algorithms**
-- **MongoDB, Mongoose**
+- ***MongoDB, Mongoose***
 - PWAs, webpack, Workbox, search engine optimization
 - **React.js**
-- GraphQL, JWT
-- **MERN Stack**, Redux
+- GraphQL, JWT, Redux
+- ***MERN Stack*** 🔥
 
 <br />
 
