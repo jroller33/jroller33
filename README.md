@@ -13,13 +13,13 @@
 
 <!-- - [Travel Planner](https://github.com/jroller33/Travel-Planner) -->
 
-<!-- ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true&theme=transparent) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6)
+<!-- ![John's GitHub stats](https://github-readme-stats-ashen-mu.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true&theme=transparent) -->
+<!-- ![Top Langs](https://github-readme-stats-ashen-mu.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6)
 <a href="https://github.com/jroller33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-ashen-mu.vercel.app/api?username=jroller33&count_private=true&hide=prs&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/jroller33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&theme=transparent" />
+  <img align="center" src="https://github-readme-stats-ashen-mu.vercel.app/api/top-langs?username=jroller33&hide=css&langs_count=6&theme=transparent" />
 </a>
  -->
 
@@ -78,13 +78,13 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 ## 📈 My GitHub History
 
 <a href="https://github.com/jroller33">
-  <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
+  <img align="center" style="width: 60%" src="https://github-readme-stats-ashen-mu.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
 </a>
 
 <br/>
 
 <a href="https://github.com/jroller33">
-  <img align="center" style="width: 60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jroller33&hide=css,handlebars&langs_count=8" />
+  <img align="center" style="width: 60%" src="https://github-readme-stats-ashen-mu.vercel.app/api/top-langs?username=jroller33&hide=css,handlebars&langs_count=8" />
 </a>
 
 
@@ -136,8 +136,8 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 
 <!-- 
 <a href="https://github.com/jroller33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jroller33&theme=tokyonight&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jroller33&theme=tokyonight&show_icons=true&count_private=true&hide=prs,contribs" />
+  <img height="180em" src="https://github-readme-stats-ashen-mu.vercel.app/api/top-langs/?username=jroller33&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-ashen-mu.vercel.app/api?username=jroller33&theme=tokyonight&show_icons=true&count_private=true&hide=prs,contribs" />
 </a>
 
  -->
@@ -149,7 +149,7 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 <!-- ![#Snake animation](./snakeAnimation.svg) -->
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jroller33&repo=team-profile-generator&theme=tokyonight)](https://github.com/jroller33/Team-Profile-Generator) -->
+<!-- [![Readme Card](https://github-readme-stats-ashen-mu.vercel.app/api/pin/?username=jroller33&repo=team-profile-generator&theme=tokyonight)](https://github.com/jroller33/Team-Profile-Generator) -->
 
 <!-- 
 <h1 style="color:red">RIP Itachi 🐐🔥🙏</h1>
