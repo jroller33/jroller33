@@ -35,7 +35,7 @@
 
 <!-- <h1 align="center">Hi , I'm John</h1> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jroller33" alt="jroller33" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jroller33&rank=-C,-B" alt="jroller33" /></a> </p>
 
 <p align="left">
 </p>
