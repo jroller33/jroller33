@@ -30,15 +30,15 @@
 </p>
 
 # 👨🏻‍💻 About Me
-I recently graduated from MSU's Full-Stack Coding Bootcamp.
-I mainly build MERN-stack web apps, but lately I've been making web crawlers, XSS and DoS attacks, basic pen testing, and automation scripting.<br />
-I've also started deploying my apps to Azure instead of Heroku.
-<br />
-<br />
 Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request. 😁
 
 <br />
 
+<!-- I recently graduated from MSU's Full-Stack Coding Bootcamp.
+I mainly build MERN-stack web apps, but lately I've been making web crawlers, XSS and DoS attacks, basic pen testing, and automation scripting.<br />
+I've also started deploying my apps to Azure instead of Heroku.
+<br />
+<br /> -->
 
 <!-- ## Projects I'm working on:
 
@@ -46,7 +46,7 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 
 - [Barcode Generator](https://github.com/jroller33/Barcode-Generator)
  -->
-
+<!-- 
 ## 🧠 What I've learned so far: 
 
 - Git, Bash, PowerShell
@@ -72,7 +72,7 @@ Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) an
 - GraphQL, JWT, Redux
 - ***MERN Stack*** 🔥
 
-<br />
+<br /> -->
 
 
 ## 📈 My GitHub History
