@@ -31,7 +31,7 @@
 
 # 👨🏻‍💻 About Me
 
-**I graduated from MSU's Full-Stack Coding Bootcamp. Now I'm learning pen-testing, hacking, automation scripting, and anything else I stumble across that looks interesting.**
+**I graduated from MSU's Full-Stack Coding Bootcamp. Now I'm learning pen-testing, hacking, automation scripting, and anything else I find that looks interesting.**
 
 <!-- <h1 align="center">Hi , I'm John</h1> -->
 
