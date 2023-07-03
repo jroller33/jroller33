@@ -121,10 +121,6 @@ I've also started deploying my apps to Azure instead of Heroku.
 <br/>
  -->
 
-
-
-
-
 <!-- 
 - C++ (functional prog. and some OOP) -->
 <!-- 
