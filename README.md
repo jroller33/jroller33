@@ -62,7 +62,6 @@
 
 
 
-
 <br />
 
 ![#Snake animation](./snakeAnimation.svg)
