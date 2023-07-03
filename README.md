@@ -160,8 +160,6 @@ I've also started deploying my apps to Azure instead of Heroku.
   <!-- - Weather Dashboard (under development)
     - https://github.com/jroller33/Weather-Dashboard -->
 
-
-
 <!-- 
 <a href="https://github.com/jroller33">
   <img height="180em" src="https://github-readme-stats-ashen-mu.vercel.app/api/top-langs/?username=jroller33&theme=tokyonight&layout=compact" />
