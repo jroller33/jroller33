@@ -50,8 +50,6 @@
   <img align="center" style="width: 60%" src="https://github-readme-stats-ashen-mu.vercel.app/api/top-langs?username=jroller33&hide=css,handlebars&langs_count=8" />
 </a>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&show_icons=true&locale=en" alt="jroller33" /></p> -->
-
 
 <a href="https://github.com/jroller33">
   <img align="center" src="https://github-readme-stats-ashen-mu.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
@@ -69,6 +67,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jroller33&show_icons=true&locale=en" alt="jroller33" /></p> -->
 
 
 <!-- I recently graduated from MSU's Full-Stack Coding Bootcamp.
