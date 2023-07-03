@@ -171,9 +171,6 @@ I've also started deploying my apps to Azure instead of Heroku.
 
 
 
-
-
-
 <!-- [![Readme Card](https://github-readme-stats-ashen-mu.vercel.app/api/pin/?username=jroller33&repo=team-profile-generator&theme=tokyonight)](https://github.com/jroller33/Team-Profile-Generator) -->
 
 <!-- 
