@@ -116,8 +116,6 @@ I've also started deploying my apps to Azure instead of Heroku.
 
 <!-- ## 📈 My GitHub History
 
-
-
 <br/>
  -->
 
