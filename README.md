@@ -31,9 +31,13 @@
 
 # 👨🏻‍💻 About Me
 
-**I graduated from MSU's Full-Stack Coding Bootcamp. Now I'm learning pen-testing, hacking, automation scripting, and anything else I find that looks interesting.**
+**I graduated from MSU's Full-Stack Coding Bootcamp. Now I'm learning pen-testing, hacking, and automation scripting.**
+
+**Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request 😁**
 
 <!-- <h1 align="center">Hi , I'm John</h1> -->
+
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jroller33&rank=-C,-B" alt="jroller33" /></a> </p>
 
