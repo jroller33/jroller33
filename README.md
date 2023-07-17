@@ -32,7 +32,6 @@
 # 👨🏻‍💻 About Me
 
 **I graduated from MSU's Full-Stack Coding Bootcamp. Now I'm learning pen-testing, hacking, and automation scripting.**
-
 **Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request 😁**
 
 <!-- <h1 align="center">Hi , I'm John</h1> -->
