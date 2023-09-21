@@ -31,7 +31,12 @@
 
 # 👨🏻‍💻 About Me
 
-**I graduated from MSU's Full-Stack Coding Bootcamp. Now I'm learning pen-testing, hacking, and automation scripting.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jroller33&label=Profile%20views&color=0e75b6&style=plastic" alt="jroller33" /> </p>
+
+
+**I graduated from MSU's Full-Stack Coding Bootcamp. I spend my time building bots, and I'm also learning pen-testing, hacking, and automation scripting.**
+<br />
+
 **Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request 😁**
 
 <!-- <h1 align="center">Hi , I'm John</h1> -->
@@ -57,10 +62,6 @@
 <a href="https://github.com/jroller33">
   <img align="center" src="https://github-readme-stats-ashen-mu.vercel.app/api?username=jroller33&count_private=true&hide=prs,contribs&show_icons=true" />
 </a>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jroller33&label=Profile%20views&color=0e75b6&style=flat" alt="jroller33" /> </p>
-
 
 <br />
 
