@@ -31,10 +31,10 @@
 
 # 👨🏻‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jroller33&label=Profile%20views&color=0e75b6&style=plastic" alt="jroller33" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jroller33&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jroller33" /> </p>
 
 
-**I graduated from MSU's Full-Stack Coding Bootcamp. I spend my time building bots, and I'm also learning pen-testing, hacking, and automation scripting.**
+**I graduated from MSU's Full-Stack Coding Bootcamp. I spend my time building bots, and learning pen-testing, hacking, and automation scripting.**
 <br />
 
 **Contribute by forking a [repo](https://github.com/jroller33?tab=repositories) and submitting a pull request 😁**
